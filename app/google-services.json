@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1016092328787",
+    "firebase_url": "https://bdgame-a461f.firebaseio.com",
+    "project_id": "bdgame-a461f",
+    "storage_bucket": "bdgame-a461f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016092328787:android:74d0b996843af334d657a6",
+        "android_client_info": {
+          "package_name": "com.somon.bdcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016092328787-q9f278cucgtbvoq88rp6su255hnf57s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.somon.bdcash",
+            "certificate_hash": "b0c6e306b779532f9ed3c922761c43aa4dea3385"
+          }
+        },
+        {
+          "client_id": "1016092328787-gr8c1eqjid5vi9k32jdbpt8aut7sj949.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghngw7ECZ_ftaPfkFUXvbJHWrw-7AXOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016092328787-gr8c1eqjid5vi9k32jdbpt8aut7sj949.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016092328787:android:3f4ef168553237add657a6",
+        "android_client_info": {
+          "package_name": "com.worldtechpoints.cashbutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016092328787-7a4743ufvm2pcus7l5lhvq7bj3tuo647.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.worldtechpoints.cashbutton",
+            "certificate_hash": "b0c6e306b779532f9ed3c922761c43aa4dea3385"
+          }
+        },
+        {
+          "client_id": "1016092328787-gr8c1eqjid5vi9k32jdbpt8aut7sj949.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghngw7ECZ_ftaPfkFUXvbJHWrw-7AXOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016092328787-gr8c1eqjid5vi9k32jdbpt8aut7sj949.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
